@@ -131,9 +131,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github-vorpal-research-kotlin-maven</id>
-            <name>vorpal-research-kotlin-maven</name>
-            <url>https://maven.pkg.github.com/vorpal-research/kotlin-maven</url>
+            <id>space-apal</id>
+            <url>https://packages.jetbrains.team/maven/p/plan/apal</url>
         </repository>
     </distributionManagement>
 
